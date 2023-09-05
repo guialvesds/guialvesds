@@ -1,5 +1,9 @@
 ### Olá, Meu nome é Guilherme Alves! ☕
 
+<div style="">
+  Olá! Sou um desenvolvedor front-end apaixonado pelo mundo da tecnologia da informação, com mais de 6 anos de experiência no mercado. Durante esse período, dediquei 2 anos e meio exclusivamente à programação, aprimorando minhas habilidades e adquirindo um profundo conhecimento na criação de interfaces incríveis e funcionais.
+</div>
+
 <div>
   <a href="https://github.com/guialvesds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesds&locale=pt-BR&theme=dracula&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
