@@ -1,10 +1,12 @@
 ### Olá, Meu nome é Guilherme Alves! ☕
 
-<div style="margin-bottom: 10px; position: relative;">
-  <div style="border: 2px solid transparent; border-radius: 50%; position: absolute; top: 0; left: 0; width: 100%; height: 100%; animation: glow 2s linear infinite;">
+<div>
+  <div>
     Olá! Sou um desenvolvedor front-end apaixonado pelo mundo da tecnologia da informação, com mais de 6 anos de experiência no mercado. Durante esse período, dediquei 2 anos e meio exclusivamente à programação, aprimorando minhas habilidades e adquirindo um profundo conhecimento na criação de aplicações web.
   </div>
 </div>
+
+##
 
 <div>
   <a href="https://github.com/guialvesds">
