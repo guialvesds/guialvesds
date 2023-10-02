@@ -2,7 +2,7 @@
 
 <div>
   <div>
-    Sou um desenvolvedor front-end apaixonado pelo mundo da tecnologia da informação, com mais de 6 anos de experiência no mercado. Durante esse período, dediquei 2 anos e meio exclusivamente à programação, aprimorando minhas habilidades e adquirindo um profundo conhecimento na criação de aplicações web.
+    Sou um desenvolvedor front-end apaixonado pelo mundo da tecnologia da informação, com mais de 6 anos de experiência no mercado. Durante esse período, dediquei 1 ano e meio exclusivamente à programação, aprimorando minhas habilidades e adquirindo um profundo conhecimento na criação de aplicações web.
   </div>
 </div>
 
