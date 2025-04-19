@@ -2,7 +2,7 @@
 
 <div align="center">  
   <div>
-    <H2>Olá, Meu nome é Guilherme Alves!</H2>
+    <H1>Olá, Meu nome é Guilherme Alves!</H1>
     👩🏽‍💻 Desenvolvedor e um curioso que gosta de codar e ver o funcionamento das coisas.
   </div>
   <h4>Ah, café é vida! ☕</h4>
