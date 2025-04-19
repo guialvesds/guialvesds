@@ -17,8 +17,12 @@
 </div>
     
 ##
-    
-![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,angular,html,css,figma,git,mongodb&theme=light)
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,angular,html,css,figma,git,mongodb&theme=light" />
+  </a>
+</p>
 
  ##
  
