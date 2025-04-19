@@ -1,9 +1,10 @@
-### ☕ Olá, Meu nome é Guilherme Alves! ☕
+###  Olá, Meu nome é Guilherme Alves!
 
 <div>
   <div>
-   Desenvolvedor!
+    👩🏽‍💻 Desenvolvedor e um curioso que gosta de codar e ver o funcionamento das coisas.
   </div>
+  <h4>Ah, café é vida! ☕</h4>
 </div>
 
 ##
@@ -14,6 +15,8 @@
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialvesds&locale=pt-BR&theme=dracula&show_icons=true&custom_title=Estatísticas"/>
 </div>
+    
+##
     
 ![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,angular,html,css,figma,git,mongodb&theme=light)
 
