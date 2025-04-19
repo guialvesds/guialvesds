@@ -1,7 +1,8 @@
-###  Olá, Meu nome é Guilherme Alves!
 
-<div>
+
+<div align="center">  
   <div>
+    <H2>Olá, Meu nome é Guilherme Alves!</H2>
     👩🏽‍💻 Desenvolvedor e um curioso que gosta de codar e ver o funcionamento das coisas.
   </div>
   <h4>Ah, café é vida! ☕</h4>
@@ -9,7 +10,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="https://github.com/guialvesds">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesds&locale=pt-BR&theme=dracula&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
   &nbsp;
@@ -27,7 +28,7 @@
  ##
  
  
-<div> 
+<div align="center"> 
   <a href = "mailto:guilherme_ealves@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-alves-67aa60155" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
