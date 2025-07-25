@@ -10,15 +10,6 @@
 
 ##
 
-<div align="center">
-  <a href="https://github.com/guialvesds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guialvesds&locale=pt-BR&theme=highcontrast&layout=compact&langs_count=6&size_weight=0.4&count_weight=0.6&exclude_repo=PousadaKatedral&hide=html,css,blade,tex"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guialvesds&locale=pt-BR&theme=highcontrast&show_icons=true&custom_title=Estatísticas"/>
-</div>
-    
-##
-
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,angular,html,css,figma,git,mongodb&theme=light" />
